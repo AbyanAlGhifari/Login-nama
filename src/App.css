@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Poppins&display=swap');
+#root {
+  margin: 0 auto;
+  padding: 0;
+}
+
+body {
+  margin:0;
+  max-width: 1280px;
+  max-height: 640px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.kotak {
+  border:3px solid grey;
+  margin-top :30px;
+  margin-bottom: 35px;
+  border-radius: 35px;
+  justify-content: center;
+  align-items: center;
+  display: flex; 
+  flex-direction: column;
+  width: 450px;
+  height: 550px;
+  background-color: magenta;
+}
+.kotak button{ 
+  font-family: "Inter";
+  border:2px solid black;
+  border-radius: 20px;
+  font-size: 25px;
+  height: 100px;
+  width: 200px;
+}
+.kotak h1{
+  font-family: "Poppins";
+  text-align: center;
+}

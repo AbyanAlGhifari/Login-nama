@@ -1,0 +1,10 @@
+.welcom {
+    display: flex;
+    height: 200px;
+    font-size: 20px;
+    text-align: left;
+    font-family: "Poppins";
+    margin-left: 150px;
+    align-items: center;
+    color: brown;
+}

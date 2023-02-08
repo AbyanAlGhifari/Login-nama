@@ -1,0 +1,30 @@
+.titles {
+    margin-left: 150px;
+    display: flex;
+    font-family: "Poppins";
+    align-items: center;
+    font-size: 30px;
+}
+
+.abot {
+    margin-top: 20px;
+    display: flex;
+    margin-left: 150px;
+    margin-right: 150px;
+    justify-content: space-between;
+}
+
+.tex {
+    font-family: "Poppins";
+}
+
+.pict img{
+    border: 2px solid;
+    width: 200px;
+    height: 200px;
+}
+.per {
+    width:600px;
+    text-align: left;
+    font-size: 20px;
+}
